@@ -1,4 +1,4 @@
-# Myrepo — Cisco Automation Scripts
+# Cisco Automation Scripts
 
 A small collection of Python scripts for connecting to and backing up the configuration of a Cisco device, built against the public **Cisco DevNet IOS XR Always-On Sandbox**. This repository holds academic work exploring network automation with [Netmiko](https://github.com/ktbyers/netmiko).
 
